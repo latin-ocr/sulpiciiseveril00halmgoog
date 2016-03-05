@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sulpiciiseveril00halmgoog_0230.png"; bbox 0 0 810 1273; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 163 473 602 550">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 163 473 602 550">
+     <span class='ocr_line' id='line_1_1' title="bbox 301 473 466 502; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 301 473 466 502; x_wconf 69' lang='lat' dir='ltr'><strong>APPENDIX⁴</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 163 528 602 550; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 163 529 289 550; x_wconf 77' lang='lat' dir='ltr'><strong>SEPTEM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 306 529 496 550; x_wconf 71' lang='lat' dir='ltr'><strong>EPISTVLAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 514 528 602 550; x_wconf 76' lang='lat' dir='ltr'><strong>QVAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 235 579 528 653">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 235 579 528 653">
+     <span class='ocr_line' id='line_1_3' title="bbox 235 579 528 605; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 235 579 384 605; x_wconf 83' lang='lat' dir='ltr'>SVLPIOII</span> <span class='ocrx_word' id='word_1_6' title='bbox 403 579 528 605; x_wconf 81' lang='lat' dir='ltr'><strong>SEVERI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 296 635 472 653; baseline 0.006 -1"><span class='ocrx_word' id='word_1_7' title='bbox 296 635 370 652; x_wconf 76' lang='lat' dir='ltr'><strong>NOMEN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 384 636 472 653; x_wconf 76' lang='lat' dir='ltr'><strong>EERVNT.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
